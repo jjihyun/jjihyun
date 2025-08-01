@@ -21,6 +21,7 @@ lenguage
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![jsp](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jsp&logoColor=white)
+<img src="https://img.shields.io/badge/javascript#F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 ![JavaScript](https://img.shields.io/badge/javascript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
