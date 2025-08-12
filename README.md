@@ -60,5 +60,7 @@ Work Tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjihyun)](https://github.com/anuraghazra/github-readme-stats)
 
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjihyun)](https://github.com/jjihyun/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjihyun)](https://github.com/jjihyun/github-readme-stats)
 </div>
